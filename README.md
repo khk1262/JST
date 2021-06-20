@@ -8,8 +8,6 @@ JST_following cart project
 ### prerequisite & hardware
 * jetson_inference 필요(https://github.com/dusty-nv/jetson-inference)
 * ros_deep_learning(https://github.com/dusty-nv/ros_deep_learning)
-* ros, python, cpp
-* jetson nano, logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 ```
 $ cd ~
 $ sudo apt-get install git cmake
