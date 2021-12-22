@@ -1,6 +1,6 @@
 JST_following cart project
 =============
-#### 졸업 작품을 구상하던 중 최근 기술 트렌드인 자율 주행 기술을 접목하고자 시도
+##### 졸업 작품을 구상하던 중 최근 기술 트렌드인 자율 주행 기술을 접목하고자 시도
 
 ### software & hardware
 * ros, python, cpp, cmake
