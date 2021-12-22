@@ -125,12 +125,12 @@ sudo systemctl start bringup_ros.service
 - 전원을 켰을 때 문제없이 부팅 및 블루투스 패드 조종, 모드 변경이 원활하게 되는 최종 단계
 
 ### 끝마치면서
-```
-  $ git clone https://github.com/khk1262/JST.git
-```
+- 문제도 많았고, 탈도 많아 초기에 구상했던 것과는 아직 많이 미흡했지만, 평소부터 관심이 있고, 한번쯤 만들어보고 싶었던 자율 주행(....많이 미흡하지만) 로봇을 졸업 작품이나마 제작을 해볼 수 있어서 즐거운 경험이었다.
+- 또한 시작 초기에만 해도 제대로 쓸 줄도 몰랐던 ROS 프로그래밍을 ros-wiki를 뒤적거리며, 아니면 온라인 영상에서 찾아보면서 스스로 생각하기에 많은 것을 배울 수 있었던 프로젝트였던 것 같다.
+
 
 ### 참고 레퍼런스
 * [leg_tracker](https://github.com/angusleigh/leg_tracker)
 * [bluetooth control](http://wiki.ros.org/joy)
 * [젯슨 나노가 부팅시 자동으로 roslaunch를 실행](https://ahnbk.com/?p=1329) 
-  
+ * [표윤석 박사 ros 강의](https://www.youtube.com/watch?v=ot_D9N-H4lQ&list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
