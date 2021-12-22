@@ -76,7 +76,7 @@ $ sudo ldconfig
 
 ### 2차 구현 단계
 #### 버튼 배선
-<img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A01.jpg"/><img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A02.jpg"/><img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A0%84%EC%9B%90%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.jpg"/>
+<img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A01.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A02.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A0%84%EC%9B%90%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B0%B0%EC%84%A0%EB%8F%84%EC%A0%95%EB%A6%AC.jpg"/>
 
 
 - rp lidar a1을 사용하여 위와같이 사용자의 다리를 잡아내고, 라이다로부터 떨어진 위치를 알아낼 수 있음
