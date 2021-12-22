@@ -18,8 +18,7 @@
 * laptop(cpu : i5, ram : 8gb), logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
 ### 구현 단계
-
-
+photo/다리추적.gif
 
 
 
