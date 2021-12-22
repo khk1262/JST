@@ -21,7 +21,7 @@
 * 카트의 모터의 경우 아두이노를 통한 제어로 결정하였음
 * 또한 메인 pc에서 전송하는 ros topic을 이용하여 아두이노에 명령 전달하는 방식
 * 밑의 그림은 카트의 *배선도*
-<img width="80%" src="https://github.com/khk1262/JST/blob/main/circuit/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EA%B2%B0%EC%84%A0%EB%8F%84(%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EA%B2%B0%EC%84%A0).jpg"/>
+<img width="90%" src="https://github.com/khk1262/JST/blob/main/circuit/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EA%B2%B0%EC%84%A0%EB%8F%84(%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EA%B2%B0%EC%84%A0).jpg"/>
 
 
 ### 구현 단계
