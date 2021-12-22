@@ -71,6 +71,7 @@ $ sudo ldconfig
 * camera_degree 폴더 내에 존재하는 modify_jetson_inference 폴더
   * 앞서 설치한 ros_deep_learning/src/node_detectnet.cpp 파일을 modify_jetson_inference 폴더내 node_detectnet.cpp 파일로 변경 수정
 * enter to ros_deep_learning/launch/detectnet.ros1.launch, then change default="csi://0" to default="v4l2:///dev/video0"
+* 해당 과정의 경우 기존 yolov4의 경우 실행하기엔 너무 무거웠기에 ssd-mobilenetv2기반의 ros_deep_learning 패키지를 가져온 것임
 - - -
 
 ### 설치법
