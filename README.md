@@ -50,7 +50,7 @@
 * ros, python, cpp, cmake
 * jetson nano, logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
-#####_이 쬐까만 놈때문에..._
+_이 쬐까만 놈때문에..._
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/jetson.jpg"/>
 
 ### prerequisite & hardware
