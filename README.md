@@ -74,6 +74,15 @@ $ sudo ldconfig
 * 해당 과정의 경우 기존 yolov4의 경우 실행하기엔 너무 무거웠기에 ssd-mobilenetv2기반의 ros_deep_learning 패키지를 가져온 것임
 - - -
 
+### 2차 구현 단계
+#### 버튼 배선
+<img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A01.jpg"/><img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A02.jpg"/><img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A0%84%EC%9B%90%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.jpg"/>
+
+
+- rp lidar a1을 사용하여 위와같이 사용자의 다리를 잡아내고, 라이다로부터 떨어진 위치를 알아낼 수 있음
+
+
+
 ### 설치법
 ```
   $ git clone https://github.com/khk1262/JST.git
