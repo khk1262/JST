@@ -32,7 +32,7 @@
 - 아두이노 조이스틱 모듈을 설치하여 유사시 사람이 조종할 수 있도록 함, 해당 부분은 추후 xbox 블루투스 조종기로 교체
 
 <img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B8%94%ED%88%AC%EC%A1%B0%EC%A2%85.gif"/>
-- 작은 미니 프로토타입에 적용단계
+- 미니 프로토타입에 적용단계
 
 ## 2차 시도
 
