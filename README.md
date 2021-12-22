@@ -14,7 +14,7 @@
 3. 또한 yolov4를 이용하여 전방에 사람이 있는지 웹캠을 통해 인지하여 라이다가 잘못 인식할 경우 걸러낼 수 있도록 함
 
 ### 사용된 언어 및 하드웨어
-* ros, python, cpp, cmake
+* ROS, python, cpp, cmake
 * laptop(cpu : i5, ram : 8gb), logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
 ### 구현 단계
@@ -47,7 +47,7 @@
 ## 2차 시도
 
 ### 사용된 언어 및 하드웨어
-* ros, python, cpp, cmake
+* ROS, python, cpp, cmake
 * jetson nano, logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/jetson.jpg"/> _이 쬐까만 놈때문에..._
