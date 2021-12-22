@@ -120,6 +120,9 @@ sudo systemctl start bringup_ros.service
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A4%91%EA%B0%84%EB%8B%A8%EA%B3%84.gif"/>
 - 좁은 길에서 다시 되돌아 갈 경우를 산정하여, 카메라를 전방에서 후방으로 돌아가게 한 후 다시 사람을 트래킹할 경우에도 문제가 없음을 보임
 
+#### 완성 단계
+<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.gif"/>
+- 전원을 켰을 때 문제없이 부팅 및 블루투스 패드 조종, 모드 변경이 원활하게 되는 최종 단계
 
 ### 설치법
 ```
