@@ -32,7 +32,7 @@
 - 오른쪽 영상의 경우 미니 프로토타입에 적용하여 시험
 
 #### 중간 완성
-<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%B4%88%EA%B8%B0%EB%8B%A8%EA%B3%84.jpg"/> <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%ED%9B%84%EB%B0%A9.gif"/>
+<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%B4%88%EA%B8%B0%EB%8B%A8%EA%B3%84.jpg"/> <img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%ED%9B%84%EB%B0%A9.gif"/>
 
 
 
