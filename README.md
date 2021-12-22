@@ -31,6 +31,11 @@
 - 아두이노 조이스틱 모듈을 설치하여 유사시 사람이 조종할 수 있도록 함, 해당 부분은 추후 xbox 블루투스 조종기로 교체
 - 오른쪽 영상의 경우 미니 프로토타입에 적용하여 시험
 
+#### 중간 완성
+<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%B4%88%EA%B8%B0%EB%8B%A8%EA%B3%84.jpg"/> <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%ED%9B%84%EB%B0%A9.gif"/>
+
+
+
 ## 2차 시도
 
 ### 사용된 언어 및 하드웨어
