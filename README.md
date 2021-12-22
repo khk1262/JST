@@ -6,6 +6,14 @@ JST_following cart project
 - 하지만 비닐 하우스라는 오픈된 공간에서 slam으로는 맵이 제대로 제작되지 않음
 - 현재 구현된 부분은 사람을 트래킹하는 부분까지 완료
 
+=============
+### 초기 시도
+#### 처음 설계 및 구현 시 노트북을 이용하여 시도하였음
+#### 2d 라이다를 이용하여 사람 다리로부터 사람을 인식하는 leg_tracker[https://github.com/angusleigh/leg_tracker] 기술을 이용
+
+
+
+
 ### 사용된 언어 및 하드웨어
 * ros, python, cpp, cmake
 * jetson nano, logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
