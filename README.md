@@ -18,17 +18,18 @@
 * laptop(cpu : i5, ram : 8gb), logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
 ### 구현 단계
-1. leg_tracker
+#### leg_tracker
 <img width="60%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%8B%A4%EB%A6%AC%EC%B6%94%EC%A0%81.gif?raw=true"/>
 - rp lidar a1을 사용하여 위와같이 사용자의 다리를 잡아내고, 라이다로부터 떨어진 위치를 알아낼 수 있음
 
-2. yolov4와 결합
+#### yolov4와 결합
 <img width="50%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%8B%A4%ED%97%981.jpg"/>
 <img width="50%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%8B%A4%ED%97%982.jpg"/>
 
 - 웹캠을 통해 전방에 사람이 있다는 것을 인지한 후 라이다의 사람 다리 판단으로 넘어감
 
-3. 
+####
+
 ## 2차 시도
 
 ### 사용된 언어 및 하드웨어
