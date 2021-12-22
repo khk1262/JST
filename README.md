@@ -15,7 +15,7 @@
 
 ### 사용된 언어 및 하드웨어
 * ros, python, cpp, cmake
-* laptop(i5, 8gb), logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
+* laptop(cpu : i5, ram : 8gb), logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
 ### 구현 단계
 
