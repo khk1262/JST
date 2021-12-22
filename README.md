@@ -21,7 +21,7 @@
 1. leg_tracker
 <img width="60%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%8B%A4%EB%A6%AC%EC%B6%94%EC%A0%81.gif?raw=true"/>
 - rp lidar a1을 사용하여 위와같이 사용자의 다리를 잡아내고, 라이다로부터 떨어진 위치를 알아낼 수 있음
-
+***
 2. yolov4와 결합
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%8B%A4%ED%97%981.jpg"/> <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%8B%A4%ED%97%982.jpg"/>
 
