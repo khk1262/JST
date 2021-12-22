@@ -80,10 +80,40 @@ $ sudo ldconfig
 #### 버튼 배선
 <img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A01.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A02.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A0%84%EC%9B%90%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B0%B0%EC%84%A0%EB%8F%84%EC%A0%95%EB%A6%AC.jpg"/>
 
-
 - 사용자가 쉽게 전원을 켜고, 사용 모드를 변경할 수 있도록 카트 몸체에 버튼 결합, 현재 모드를 버튼의 led를 통해 인지할 수 있음
 
+#### ros auto booting
+* jetson nano의 전원이 켜지면 내부 roslaunch 파일이 자동으로 실행되도록 하였음
+* 밑의 코드는 자동 부팅을 위한 bash 파일(start.sh)
+```
+#!/bin/bash
+source /home/cart/.bashrc
+source /opt/ros/melodic/setup.bash
+source /home/cart/catkin_ws/devel/setup.bash
 
+roslaunch ros_servo run_all_temp_v1.launch
+```
+* 디음으로 systemd 서비스 파일을 생성, 생성 위치는 /etc/systemd/system 내에 위치
+* /etc/systemd/system/bringup_ros.service
+```
+[Unit]
+Description=Bringup ROS launch Test
+
+[Service]
+ExecStart=/home/cart/start.sh
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
+```
+* 이제 systemd의 데몬을 재시작
+```
+$ sudo systemctl daemon-reload
+```
+* 생성한 서비스를 시작
+```
+sudo systemctl start bringup_ros.service
+```
 
 ### 설치법
 ```
