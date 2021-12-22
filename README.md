@@ -28,10 +28,10 @@
 - 웹캠을 통해 전방에 사람이 있다는 것을 인지한 후 라이다의 사람 다리 판단으로 넘어감
 
 #### 조이스틱 조종
-<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.gif"/>
+<img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.gif"/>
 - 아두이노 조이스틱 모듈을 설치하여 유사시 사람이 조종할 수 있도록 함, 해당 부분은 추후 xbox 블루투스 조종기로 교체
 
-<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B8%94%ED%88%AC%EC%A1%B0%EC%A2%85.gif"/>
+<img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B8%94%ED%88%AC%EC%A1%B0%EC%A2%85.gif"/>
 
 
 ## 2차 시도
