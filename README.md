@@ -124,7 +124,7 @@ sudo systemctl start bringup_ros.service
 * 이제 전원을 키면 start.bash 파일에 지정해두었던 roslaunch 파일이 자동으로 실행
 
 #### 중간 단계
-<img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A4%91%EA%B0%84%EB%8B%A8%EA%B3%84.gif"/>
+<img width="60%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A4%91%EA%B0%84%EB%8B%A8%EA%B3%84.gif"/>
 좁은 길에서 다시 되돌아 갈 경우를 산정하여, 카메라를 전방에서 후방으로 돌아가게 한 후 다시 사람을 트래킹할 경우에도 문제가 없음을 보임
 
 #### 완성 단계
