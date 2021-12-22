@@ -124,14 +124,13 @@ sudo systemctl start bringup_ros.service
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.gif"/>
 - 전원을 켰을 때 문제없이 부팅 및 블루투스 패드 조종, 모드 변경이 원활하게 되는 최종 단계
 
-### 설치법
+### 끝마치면서
 ```
   $ git clone https://github.com/khk1262/JST.git
 ```
 
-### 실행 shell script
-* JST/code 폴더 내에 존재하는 start.sh
-* 이것은 젯슨 나노가 부팅시 자동으로 roslaunch를 실행하기 위함
-* https://ahnbk.com/?p=1329 해당 블로그 글을 참고하여 서비스 파일 생성
-  
+### 참고 레퍼런스
+* [leg_tracker](https://github.com/angusleigh/leg_tracker)
+* [bluetooth control](http://wiki.ros.org/joy)
+* [젯슨 나노가 부팅시 자동으로 roslaunch를 실행](https://ahnbk.com/?p=1329) 
   
