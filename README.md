@@ -8,9 +8,9 @@ JST_following cart project
 
 =============
 ### 초기 시도
-#### 처음 설계 및 구현 시 노트북을 이용하여 시도하였음
-#### 2d 라이다를 이용하여 사람 다리로부터 사람을 인식하는 leg_tracker[https://github.com/angusleigh/leg_tracker] 기술을 이용
-
+1. 처음 설계 및 구현 시 노트북을 이용하여 시도하였음
+2. 2d 라이다를 이용하여 사람 다리로부터 사람을 인식하는 leg_tracker[https://github.com/angusleigh/leg_tracker] 기술을 이용
+3. 또한 yolov4를 이용하여 전방에 사람이 있는지 웹캠을 통해 인지하여 라이다가 잘못 인식할 경우 걸러낼 수 있도록 함
 
 
 
