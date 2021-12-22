@@ -28,7 +28,9 @@
 
 - 웹캠을 통해 전방에 사람이 있다는 것을 인지한 후 라이다의 사람 다리 판단으로 넘어감
 
-####
+#### 조이스틱 조종
+<img width="50%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.gif"/>
+
 
 ## 2차 시도
 
