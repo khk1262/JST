@@ -17,6 +17,13 @@
 * ROS, python, cpp, cmake
 * laptop(cpu : i5, ram : 8gb), logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
+### 컨트롤러 배선도
+* 카트의 모터의 경우 아두이노를 통한 제어로 결정하였음
+* 또한 메인 pc에서 전송하는 ros topic을 이용하여 아두이노에 명령 전달하는 방식
+*배선도*
+<img width="60%" src="https://github.com/khk1262/JST/blob/main/circuit/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EA%B2%B0%EC%84%A0%EB%8F%84(%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EA%B2%B0%EC%84%A0).jpg"/>
+
+
 ### 구현 단계
 #### leg_tracker
 <img width="60%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%8B%A4%EB%A6%AC%EC%B6%94%EC%A0%81.gif?raw=true"/>
