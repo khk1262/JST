@@ -1,8 +1,12 @@
 JST_following cart project
 =============
-##### 졸업 작품을 구상하던 중 최근 기술 트렌드인 자율 주행 기술을 접목하고자 시도
+### 졸업 작품 구상 및 과정
+- 최신 기술 트렌드인 자율주행 기술을 접목시키고자 함
+- 2가지 파트로 나누어 사용자를 추종하는 기술과 slam을 활용하여 맵 제작 및 추후 네비게이션 기술 지원 예상
+- 하지만 비닐 하우스라는 오픈된 공간에서 slam으로는 맵이 제대로 제작되지 않음
+- 현재 구현된 부분은 사람을 트래킹하는 부분까지 완료
 
-### software & hardware
+### 사용된 언어 및 하드웨어
 * ros, python, cpp, cmake
 * jetson nano, logitech webcam, arduino, motor sheild, xbox joystick, rp lidar a1
 
