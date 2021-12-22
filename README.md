@@ -20,11 +20,11 @@
 ### 구현 단계
 #### leg_tracker
 <img width="60%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%8B%A4%EB%A6%AC%EC%B6%94%EC%A0%81.gif?raw=true"/>
-- rp lidar a1을 사용하여 위와같이 사용자의 다리를 잡아내고, 라이다로부터 떨어진 위치를 알아낼 수 있음
+rp lidar a1을 사용하여 위와같이 사용자의 다리를 잡아내고, 라이다로부터 떨어진 위치를 알아낼 수 있음
 
 #### yolov4와 결합
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%8B%A4%ED%97%981.jpg"/> <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%8B%A4%ED%97%982.jpg"/>
-- 웹캠을 통해 전방에 사람이 있다는 것을 인지한 후 라이다의 사람 다리 판단으로 넘어감
+웹캠을 통해 전방에 사람이 있다는 것을 인지한 후 라이다의 사람 다리 판단으로 넘어감
 
 #### 조이스틱 조종
 <img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.gif"/> <img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B8%94%ED%88%AC%EC%A1%B0%EC%A2%85.gif"/>
@@ -80,7 +80,7 @@ $ sudo ldconfig
 #### 버튼 배선
 <img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A01.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B2%84%ED%8A%BC%EB%B0%B0%EC%84%A02.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%A0%84%EC%9B%90%EB%B2%84%ED%8A%BC%EA%B2%B0%ED%95%A9.jpg"/><img width="20%" src="https://github.com/khk1262/JST/blob/main/photo/%EB%B0%B0%EC%84%A0%EB%8F%84%EC%A0%95%EB%A6%AC.jpg"/>
 
-- 사용자가 쉽게 전원을 켜고, 사용 모드를 변경할 수 있도록 카트 몸체에 버튼 결합, 현재 모드를 버튼의 led를 통해 인지할 수 있음
+사용자가 쉽게 전원을 켜고, 사용 모드를 변경할 수 있도록 카트 몸체에 버튼 결합, 현재 모드를 버튼의 led를 통해 인지할 수 있음
 
 #### ros auto booting
 * jetson nano의 전원이 켜지면 내부 roslaunch 파일이 자동으로 실행되도록 하였음
