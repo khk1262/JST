@@ -1,4 +1,4 @@
-JST_following cart project
+# JST_following cart project
 ***
 ### 졸업 작품 구상 및 과정
 - 최신 기술 트렌드인 자율주행 기술을 접목시키고자 함
