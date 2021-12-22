@@ -33,7 +33,11 @@
 
 #### 중간 완성
 <img width="40%" src="https://github.com/khk1262/JST/blob/main/photo/%EC%B4%88%EA%B8%B0%EB%8B%A8%EA%B3%84.jpg"/> <img width="30%" src="https://github.com/khk1262/JST/blob/main/photo/%ED%9B%84%EB%B0%A9.gif"/>
+- 노트북을 통한 사용자 트래킹의 경우 거의 완성이 되었다.
+- 따라서 이제 해당 제품을 실제 제품처럼 만들 단계로 넘어왔다.
 
+===
+## 발생 오류
 
 
 ## 2차 시도
